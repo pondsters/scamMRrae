@@ -24,12 +24,8 @@
             </div>
             <div class="show">
                 <h1>You've been scammed</h1>
-                <p>Number of people who have also been scammed: </p>
-                <p>Your password wasn't stored, don't worry</p>
-                <form>
-                    <input type="text" name="who" class="inputs" maxlength="113" size="47" placeholder="Let me know who sent this link to you">
-                    <br><br style="clear: both;"><button id="submitButton">Submit</button>
-                </form>
+                <p>Your password wasn't stored, don't worry (and don't get me in trouble)</p>
+                <p>Tell Olly Finch on teams you've seen this message, as well as who sent the link to you</p>
             </div>
         </main>
     </body>
